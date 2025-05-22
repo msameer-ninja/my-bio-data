@@ -1,6 +1,6 @@
 # 🔖 Project 1: Personal Bio Page
 
-#### Goal:
+### Goal:
 Create a simple personal website that introduces yourself.
 
 ### Requirements:
